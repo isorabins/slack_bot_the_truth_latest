@@ -1,0 +1,9 @@
+Flask==3.0.3
+Flask-Cors==4.0.1
+canopy-sdk
+python-dotenv==1.0.1
+requests==2.32.3
+slack-sdk==3.27.2
+slack-bolt==1.18.1
+tiktoken==0.3.3
+gunicorn
